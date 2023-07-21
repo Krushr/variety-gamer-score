@@ -40,6 +40,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "eslint": "^8.45.0",
     "eslint-config-react-app": "^7.0.1",
     "vite-plugin-eslint": "^1.8.1"
